@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.kyant.backdrop-release-33:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/layout/notification_template_part_time.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/layout/custom_dialog.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/layout/ime_base_split_test_activity.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/layout/notification_template_part_chronometer.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/layout/notification_template_part_chronometer.xml"
+    }
+]

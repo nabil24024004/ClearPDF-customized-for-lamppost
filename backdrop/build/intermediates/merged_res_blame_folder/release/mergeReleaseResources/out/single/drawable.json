@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/notification_bg_low.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/notification_bg.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/ic_call_answer_video_low.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/notification_icon_background.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/notification_tile_bg.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/ic_call_decline_low.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/ic_call_answer.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/ic_call_answer.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/ic_call_answer_low.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/ic_call_answer_video.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "com.kyant.backdrop-release-33:/drawable/ic_call_decline.xml",
+        "source": "com.kyant.backdrop-core-1.17.0-3:/drawable/ic_call_decline.xml"
+    }
+]
